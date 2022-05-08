@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MalabakOnline</string>
+    <string name="sign_in">Sign in</string>
+    <string name="enter_username">enter_username</string>
+    <string name="enterusername">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string-array name="Governorate">
+        <item>Dakahlia Governorate</item>
+        <item>Dakahlia Governorate</item>
+        <item>Dakahlia Governorate</item>
+        <item>Dakahlia Governorate</item>
+    </string-array>
+    <string-array name="city">
+        <item>mansoura</item>
+        <item>mansoura</item>
+        <item>mansoura</item>
+    </string-array>
+</resources>
